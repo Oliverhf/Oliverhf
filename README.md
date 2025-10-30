@@ -1,4 +1,4 @@
-<h1>Hi, I’m Oliver Favalli</h2><br>
+<h1>Hi, I’m Oliver H.F.</h2><br>
 
 <div align="center">
   <a href="https://github.com/Oliverhf">
