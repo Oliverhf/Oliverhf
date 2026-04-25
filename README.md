@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Oliver H.F.</h1>
+<h1 align="center">⚡ Oliver</h1>
 
 <p align="center">
   <strong>Full-Stack Developer · Shopify Plus · Custom Systems · Performance Engineering</strong>
